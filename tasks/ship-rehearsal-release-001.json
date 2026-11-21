@@ -1,0 +1,37 @@
+{
+  "id": "ship-rehearsal-release-001",
+  "title": "Write dist/hello.txt for rehearsal milestone M1",
+  "project": "ship-rehearsal-release",
+  "type": "data",
+  "lane": "donated",
+  "priority": "low",
+  "domain": [
+    "software",
+    "open-source"
+  ],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "dataset",
+  "tokenEstimate": "small",
+  "status": "open",
+  "context": "A throwaway project used once to rehearse the github-release recipe of the ship stage against a real GitHub release. It has no outside beneficiary and no public deliverable.",
+  "objective": "Add the one-line text file dist/hello.txt, so that milestone M1 has something to be read, covered and shipped as a release.",
+  "acceptanceCriteria": [
+    "AC-01: dist/hello.txt holds the line \"rehearsal release\""
+  ],
+  "output": "dist/hello.txt",
+  "verifiedNeed": false,
+  "provenance": "generated",
+  "inputs": "none",
+  "outputLicense": "CC0-1.0",
+  "lifecycle": "ai-full",
+  "reviewPolicy": {
+    "vendors": 2,
+    "evaluators": [],
+    "humanCheckpoints": [
+      "spec",
+      "plan",
+      "ship"
+    ]
+  }
+}
