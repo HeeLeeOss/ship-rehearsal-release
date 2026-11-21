@@ -1,0 +1,26 @@
+{
+  "v": 1,
+  "project": "ship-rehearsal-release",
+  "milestone": "M1",
+  "state": "covered",
+  "reads": [
+    {
+      "read": 1,
+      "runId": "c72db8f1ae58c62f",
+      "at": "2026-11-21T15:02:00.003Z",
+      "sha256": "f87110ddf7a7942cad367de8ca0efd6d9900fc53227809d2fb1feaaac797626b",
+      "prs": [
+        {
+          "number": 1,
+          "bodyOnly": false,
+          "cut": false
+        }
+      ],
+      "covered": [
+        "AC-01"
+      ],
+      "uncovered": [],
+      "unverified": []
+    }
+  ]
+}
