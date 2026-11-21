@@ -13,7 +13,7 @@
   "urgent": false,
   "deliverable": "dataset",
   "tokenEstimate": "small",
-  "status": "open",
+  "status": "delivered",
   "context": "A throwaway project used once to rehearse the github-release recipe of the ship stage against a real GitHub release. It has no outside beneficiary and no public deliverable.",
   "objective": "Add the one-line text file dist/hello.txt, so that milestone M1 has something to be read, covered and shipped as a release.",
   "acceptanceCriteria": [
